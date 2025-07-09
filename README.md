@@ -25,10 +25,8 @@ Table of Contents
 
 2- Data Mining and Visualization (April 3 - June 16 2022)       
 
-
-   ****sxMLxr/CED-AIA-DATAMIN-Spring_2022
-
-      
+       ****sxMLxr/CED-AIA-DATAMIN-Spring_2022      
+       
 3- Artificial Intelligence (June 26 - September 8 2022) 
 
 4- Machine Learning (September 18 - December 1 2022)

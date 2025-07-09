@@ -26,6 +26,7 @@ Table of Contents
 
 1- Computer Programming with Python (January 9 - March 17 2022)
 
+       files:   ****sxMLxr/AI-Cohort3-PythonProgramming
 
 2- Data Mining and Visualization (April 3 - June 16 2022)       
 

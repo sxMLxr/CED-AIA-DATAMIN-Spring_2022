@@ -24,7 +24,10 @@ Table of Contents
 1- Computer Programming with Python (January 9 - March 17 2022)
 
 2- Data Mining and Visualization (April 3 - June 16 2022)       
+
+
    ****sxMLxr/CED-AIA-DATAMIN-Spring_2022
+
       
 3- Artificial Intelligence (June 26 - September 8 2022) 
 
